@@ -497,7 +497,7 @@ footer {
   -webkit-animation: animate-svg-fill-7 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.4000000000000001s both;
           animation: animate-svg-fill-7 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.4000000000000001s both;
 }
-rgb(0, 0, 0);
+
 @-webkit-keyframes animate-svg-fill-8 {
   0% {
     fill: transparent;
