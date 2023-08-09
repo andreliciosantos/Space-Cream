@@ -8,8 +8,6 @@ CSS GRID and Animations in practice
 
 Project built on Rocketseat Stage 3 Explorer course.
 
-[Click here to access](https://andreliciosantos.github.io/Wack_a_Mole/)
-
 ## 🛠 Technologies
 
 - HTML
